@@ -14,7 +14,7 @@ const TextContainer = () => {
         <div className="textContainer-top">
             <motion.span 
                 variants={fadeIn()}
-                className="text-orange-600">Find out more</motion.span>
+                className="text-orange-600">All around good guy</motion.span>
             {/* <motion.span 
                 variants={fadeIn()}
                 className="first-letter:text-5xl">kepac</motion.span> */}
